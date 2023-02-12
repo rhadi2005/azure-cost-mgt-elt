@@ -3,6 +3,9 @@ Helpful Python based explorations on Microsoft Azure
 
 Dynamic Cost Analysis and Alert (DCAA)
 
+this works o, EA subscription (tested on VCF DEV)
+this doesnot work on CSP subscription (tested on OCBPS) 
+
 https://medium.com/python-for-azure/python-for-azure-dynamic-cost-analysis-alerts-dcaa-in-azure-cost-management-b05ab632e4a4
 
 pip install -r requirements.txt
